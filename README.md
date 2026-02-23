@@ -1,5 +1,5 @@
-# popets-dp-for-pprl
-This repository stores the data extraction and linkage scripts used in the experimental setups of the paper titled <em> The use of differential privacy for privacy-preserving record linkage: Protecting the bits but not the people </em> submitted for POPETS 2026.
+# dp-for-pprl
+This repository stores the data extraction and linkage scripts used in the experimental setups of the paper titled <em> The use of differential privacy for privacy-preserving record linkage: Protecting the bits but not the people </em> submitted to the Information Systems journal.
 
 This includes two sets of code:
     <ol>
