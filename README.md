@@ -8,3 +8,4 @@ This includes two sets of code:
             The entry point of the linkage program is the <code>encoder.py</code> file.
     </ol>
 
+Additionally, in AppendixB.pdf, we provide detailed experimental results evaluating the linkage quality (utility) of our experimental setup.
