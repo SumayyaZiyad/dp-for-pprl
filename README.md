@@ -1,5 +1,5 @@
 # dp-for-pprl
-This repository stores the data extraction and linkage scripts used in the experimental setups of the paper titled <em> The use of differential privacy for privacy-preserving record linkage: Protecting the bits but not the people </em> submitted to the Information Systems journal.
+This repository stores the data extraction and linkage scripts used in the experimental setups of the paper titled <em> <a href="https://www.sciencedirect.com/science/article/pii/S0306437926000402"> The use of differential privacy for privacy-preserving record linkage: Protecting the bits but not the people </a> </em> in the Information Systems journal (Elsevier).
 
 This includes two sets of code:
     <ol>
